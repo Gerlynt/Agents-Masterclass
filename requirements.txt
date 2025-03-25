@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+openpyxl
+prophet
+python-dotenv
+groq
